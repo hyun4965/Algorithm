@@ -1,3 +1,2 @@
 # Algorithm
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
-# *석현의 알고리즘
