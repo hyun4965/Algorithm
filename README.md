@@ -26,8 +26,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/java-coding-test.git
-    cd java-coding-test
+    git clone https://github.com/hyun4965/Algorithm.git
+    cd Algorithm
     ```
 
 2. **Set up your environment:**
